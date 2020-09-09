@@ -1,0 +1,9 @@
+{
+  "platform": "pc",
+  "os" : "mac",
+  "driver": "chrome",
+  "report": "src/test/resources/reports/Report.html",
+  "url": "https://www.cloudthing.com/",
+  "driverPath": "src/main/resourses/drivers/chromedriver.exe"
+
+}

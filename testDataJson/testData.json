@@ -1,0 +1,14 @@
+{
+   "FirstName" : "Chakrapani",
+    "LastName" : "Priyadarshi",
+    "Address" :[
+      {
+      "State" : "Karnataka",
+      "City" :  "Bangalore"
+      },
+        {
+      "State" : "Maharastra",
+      "City" :  "Mumbai"
+      }
+    ]
+}
